@@ -1,4 +1,4 @@
-# Exersices 1
+# Exercises 1
 
 1. What is the difference between an Algorithm and a Program?
 	- [x] An algorithm is a conceptual idea, a program is a concrete instantiation of an algorithm.
