@@ -1,6 +1,6 @@
 # MIT 6.00.1x
 
-This course is a write up of the content in MIT's [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+1T2020/course/).
+This course contains my notes from MIT's [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+1T2020/course/).
 
 ## Overview of this course:
 - learn computational modes of thinking
