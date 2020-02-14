@@ -51,7 +51,7 @@ Semantics is the meaning associated with a syntactically correct string of symbo
 	- programs runs forever
 	- program gives an answer but different than expected
 
-## Our goal
+## Our goal:
 - Learn the syntax and semantics of a programming language.
 - Learn how to use those elemnts to translate "recipes" for solving a problem into a form that the computer can use to do the work for us.
 - Learn computational modes of thought to enable us to leverage a suite of methods to solve complex problems.
