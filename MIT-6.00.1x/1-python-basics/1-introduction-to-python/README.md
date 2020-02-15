@@ -1,7 +1,6 @@
 _[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / 1 - Introduction to Python_
 # Introduction to Python
 
-## Contents
 - [Introduction](./01-introduction.md)
 - [Knowledge](./02-knowledge.md)
 - [Exercises 1](./03-exercises-1.md)
