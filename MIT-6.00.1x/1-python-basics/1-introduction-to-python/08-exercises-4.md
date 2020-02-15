@@ -1,5 +1,5 @@
 # Exercises 4
-[back](../)
+[back](./)
 
 1. What determines whether a string is legal?
 - [ ] semantics

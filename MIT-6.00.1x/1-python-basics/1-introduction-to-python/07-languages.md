@@ -1,5 +1,5 @@
 # Languages
-[back](../)
+[back](./)
 
 ## Creating recipes:
 - a programming language provides a set of primitive operations

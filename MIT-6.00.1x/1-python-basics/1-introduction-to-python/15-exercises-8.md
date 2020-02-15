@@ -1,5 +1,5 @@
 # Exercises 8
-[back](../)
+[back](./)
 
 1. Evaluate `3 > 4`:
 	`False`

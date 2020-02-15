@@ -1,5 +1,5 @@
 # Knowledge
-[back](../)
+[back](./)
 
 ## Types of knowledge:
 - computers know what you tell them

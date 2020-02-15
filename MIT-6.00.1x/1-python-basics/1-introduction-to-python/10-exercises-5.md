@@ -1,5 +1,5 @@
 # Exercises 5
-[back](../)
+[back](./)
 
 1. What type is `3.14`?
 	- [ ] `NoneType`

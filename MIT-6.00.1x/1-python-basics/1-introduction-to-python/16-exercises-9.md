@@ -1,5 +1,5 @@
 # Exercises 9
-[back](../)
+[back](./)
 
 1. Evaluate the final expression:
 	```

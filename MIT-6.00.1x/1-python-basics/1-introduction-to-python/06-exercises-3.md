@@ -1,5 +1,5 @@
 # Exercises 3
-[back](../)
+[back](./)
 
 1. A stored program computer is designed to compute precisely one computation, such as a square root, or the trajectory of a missile.
 	- [ ] True

@@ -1,5 +1,5 @@
 # Machines
-[back](../)
+[back](./)
 
 ## Computers are machines
 How to capture a recipe in a mechanical process?

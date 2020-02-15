@@ -1,5 +1,5 @@
 # Types
-[back](../)
+[back](./)
 
 ## Python Programs
 - a program is a sequence of definitions and commands

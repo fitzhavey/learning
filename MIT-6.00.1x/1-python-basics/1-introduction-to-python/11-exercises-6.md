@@ -1,5 +1,5 @@
 # Exercises 6
-[back](../)
+[back](./)
 
 1. Evaluate `6 + 12 - 3` to up to 4 d.p.:
 	`15`

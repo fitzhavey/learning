@@ -1,5 +1,5 @@
 # Exercises 2
-[back](../)
+[back](./)
 
 1. Declarative knowledge refers to statements of fact.
 	- [x] True
