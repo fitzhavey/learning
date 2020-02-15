@@ -1,5 +1,5 @@
 # Exercises 3
-[back](./)
+`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 6 - Exercises 3` [back](./)
 
 1. A stored program computer is designed to compute precisely one computation, such as a square root, or the trajectory of a missile.
 	- [ ] True

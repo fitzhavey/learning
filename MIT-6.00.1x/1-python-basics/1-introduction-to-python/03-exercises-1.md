@@ -1,5 +1,5 @@
 # Exercises 1
-[back](./)
+`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 3 - Exercises 1` [back](./)
 
 1. What is the difference between an Algorithm and a Program?
 	- [x] An algorithm is a conceptual idea, a program is a concrete instantiation of an algorithm.

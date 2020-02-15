@@ -1,5 +1,5 @@
 # Exercises 6
-[back](./)
+`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 11 - Exercises 6` [back](./)
 
 1. Evaluate `6 + 12 - 3` to up to 4 d.p.:
 	`15`

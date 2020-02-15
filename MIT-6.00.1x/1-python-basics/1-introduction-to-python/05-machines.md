@@ -1,5 +1,5 @@
 # Machines
-[back](./)
+`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 5 - Machines` [back](./)
 
 ## Computers are machines
 How to capture a recipe in a mechanical process?
