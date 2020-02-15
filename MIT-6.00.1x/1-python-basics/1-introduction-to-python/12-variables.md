@@ -1,4 +1,4 @@
-_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 10 - Variables_
+_[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / [1 - Introduction to Python](./) / 10 - Variables_
 # Variables
 `/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 12 - Variables` [back](./)
 

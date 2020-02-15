@@ -1,4 +1,4 @@
-_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 3 - Exercises 1_
+_[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / [1 - Introduction to Python](./) / 3 - Exercises 1_
 # Exercises 1
 
 1. What is the difference between an Algorithm and a Program?

@@ -1,4 +1,4 @@
-_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 4 - Exercises 2_
+_[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / [1 - Introduction to Python](./) / 4 - Exercises 2_
 # Exercises 2
 
 1. Declarative knowledge refers to statements of fact.

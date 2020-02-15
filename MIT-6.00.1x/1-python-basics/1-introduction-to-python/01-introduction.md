@@ -1,4 +1,4 @@
-_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 1 - Introduction_
+_[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / [1 - Introduction to Python](./) / 1 - Introduction_
 # Introduction to Python
 
 ## Overview of course:

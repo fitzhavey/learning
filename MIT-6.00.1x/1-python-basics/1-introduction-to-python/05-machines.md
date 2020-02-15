@@ -1,4 +1,4 @@
-_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 5 - Machines_
+_[Home](../../../) / [MIT 6.00.1x](../../) / [1 - Python Basics](../) / [1 - Introduction to Python](./) / 5 - Machines_
 # Machines
 `/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 5 - Machines` [back](./)
 
