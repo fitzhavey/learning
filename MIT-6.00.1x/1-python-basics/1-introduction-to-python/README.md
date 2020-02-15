@@ -3,7 +3,7 @@
 
 ## Contents
 - [Introduction](./01-introduction.md)
-- [Knowldge](./02-knowldge.md)
+- [Knowledge](./02-knowledge.md)
 - [Exercises 1](./03-exercises-1.md)
 - [Exercises 2](./04-exercises-2.md)
 - [Machines](./05-machines.md)
