@@ -1,4 +1,4 @@
 # Python Basics
 
 ## Contents:
-- [Introduction to Python](/1-introduction-to-pyton)
+- [Introduction to Python](1-introduction-to-pyton)
