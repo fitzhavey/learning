@@ -1,6 +1,5 @@
 # Introduction to Python
 [back](../)
-[test](./test.py)
 
 ## Contents
 - [Introduction](./01-introduction.md)
