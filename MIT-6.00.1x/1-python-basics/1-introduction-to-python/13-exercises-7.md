@@ -1,5 +1,5 @@
+_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 13 - Exercises 7_
 # Exercises 7
-`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 13 - Exercises 7` [back](./)
 
 1. Evaluate the final expression:
 	```

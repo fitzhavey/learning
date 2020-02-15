@@ -1,5 +1,5 @@
+_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 2 - Knowledge_
 # Knowledge
-`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 2 - Knowledge` [back](./)
 
 ## Types of knowledge:
 - computers know what you tell them

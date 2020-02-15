@@ -1,5 +1,5 @@
+_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 1 - Introduction_
 # Introduction to Python
-`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 1 - Introduction` [back](./)
 
 ## Overview of course:
 - learn computational modes of thinking

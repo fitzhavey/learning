@@ -1,5 +1,5 @@
+_[Home](../../../../) / [MIT 6.00.1x](../../../) / [1 - Python Basics](../../) / [1 - Introduction to Python](../) / 10 - Exercises 5_
 # Exercises 5
-`/ MIT 6.00.1x / 1 - Python Basics / 1 - Introduction to Python / 10 - Exercises 5` [back](./)
 
 1. What type is `3.14`?
 	- [ ] `NoneType`
