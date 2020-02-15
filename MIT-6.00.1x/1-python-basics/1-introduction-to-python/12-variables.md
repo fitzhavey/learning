@@ -1,4 +1,5 @@
 # Variables
+[back](../)
 
 ## Binding variables and values
 - equal sign is an **assignment** of a value to a variable name
