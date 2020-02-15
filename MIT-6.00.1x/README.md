@@ -1,5 +1,5 @@
-# MIT 6.00.1x
 _[Home](../) / MIT 6.00.1x_
+# MIT 6.00.1x
 
 This course contains my notes from MIT's [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+1T2020/course/).
 
