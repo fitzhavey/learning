@@ -15,7 +15,7 @@ How to capture a recipe in a mechanical process?
 - arithmetic logic unit, to do primitive operations
 - control unit, acts as a program counter
 
-Ther program counter tells the control unit which instruction to read from memory. It then increments the counter and sends that instruction the the arithmetic logic unit.
+The program counter tells the control unit which instruction to read from memory. It then increments the counter and sends that instruction the the arithmetic logic unit.
 
 ## Stored Program Computer:
 - sequestion of instructions stored inside the computer, built from a set of primitive instructions:
