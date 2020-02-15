@@ -1,5 +1,5 @@
 # Introduction to Python
-[back](../)
+[back](./)
 
 ## Overview of course:
 - learn computational modes of thinking
