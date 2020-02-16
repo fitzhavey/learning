@@ -27,3 +27,11 @@ y = 2
 y = x
 x = y
 ```
+The above won't work as the order matters. Instead do:
+```
+x = 1
+y = 2
+temp = y
+y = x
+x = temp
+```
